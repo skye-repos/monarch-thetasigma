@@ -2,7 +2,7 @@
 A version of my WCAG AAA compliant Emacs theme ported to Monarch Launcher for MacOS. [[https://www.monarchlauncher.com/][Monarch Launcher]] is a spotlight/raycast/alfred alternative with some neat functionality.
 
 * Installation
-Currently (as of v0.8.39), themes in monarch are stored in ~/Library/Application Support/com.monarch.macos/themes/. Installation will involve downloading the json file and placing it in that folder. Once the file is correctly placed, you can chose the theme in Monarch by typing ~Monarch Settings~ and scrolling to the themes. 
+Currently (as of v0.8.39), themes in monarch are stored in ~"~/Library/Application Support/com.monarch.macos/themes/"~. Installation will involve downloading the json file and placing it in that folder. Once the file is correctly placed, you can chose the theme in Monarch by typing ~Monarch Settings~ and scrolling to the themes. 
 
 Two methods for installation are detailed below:
 
