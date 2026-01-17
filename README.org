@@ -12,10 +12,12 @@ Two methods for installation are detailed below:
 You can download the file from github here or this [[https://pastebin.com/7FGuQnrd][pastebin link]] and place the file in the folder above by opening Finder and navigating to it. ~⌘+shift+g~ will open up a dialog for you to quickly navigate there.
 
 ** With a terminal
+Pastebin Link
 #+begin_src shell
 curl -L https://pastebin.com/raw/7FGuQnrd > ~/Library/Application\ Support/com.monarch.macos/themes/thetasigma.json
 #+end_src
 
+Github Link (will be updated if any changes happen)
 #+begin_src shell
 curl -L https://raw.githubusercontent.com/skye-repos/monarch-thetasigma/refs/heads/main/thetasigma.json > ~/Library/Application\ Support/com.monarch.macos/themes/thetasigma.json
 #+end_src
